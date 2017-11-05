@@ -1,4 +1,4 @@
-# Plant-It
+# Plant It!
 A VR game meant to inspire young women to become engineers.
 
 ## In Sum
