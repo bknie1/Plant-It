@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6900275ae4e87f745b4b073df2084396
+timeCreated: 1509902959
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sprout1: {fileID: 1074046142910126, guid: ed7c851304c5b7a4f833f456fca338ae, type: 2}
+  - sprout2: {fileID: 1645828167486682, guid: e2f435846c58b5c4894bad527800a8a7, type: 2}
+  - flower: {fileID: 1985376404808990, guid: e1e18e0e1112c9e4781405bd1dcd48d8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
