@@ -2,8 +2,8 @@
 A VR game meant to inspire young women to become engineers.
 
 ## In Sum
-An arcade game wherein the player plants seeds, waters the pots, sun the sprouts, and pick flowers. Players attempt to
-achieve par for the course based on the number of managed plants. There is no lose condition because we want to encourage 
+An arcade game wherein the player plants seeds, waters the pots, sun the sprouts, and pick the flowers. Players attempt to
+achieve points for the course based on the number of managed plants. There is no lose condition because we want to encourage players to challenge themselves to achieve the goal of the game with the least number of the most accurate aims.
 
 ## In Detail
 
