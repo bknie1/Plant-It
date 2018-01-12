@@ -1,4 +1,5 @@
-# Plant It!
+![alt text](https://github.com/bknie1/Plant-It/blob/master/Logo.png "Plant It!")
+
 UNH students and alum participated in a hackathon at the 2017 Google Developer Conference at Southern CT State University. Brandon Knieriem (CSMS '17), Philip Levine (CSMS '18), Matthew Vastarelli (CSMS '18), and Yilan “Amanda” Zhu (EEBS ’16) were prompted to use conference technology topics to create a software solution that would inspire elementary aged girls to pursue STEM studies. The team chose to create a mobile virtual reality solution on the Android Google Daydream platform called Plant It!
 
 ## In Sum
